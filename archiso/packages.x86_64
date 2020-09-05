@@ -606,7 +606,7 @@ arcolinux-config-icewm-git
 #arcolinux-herbstluftwm-dconf-git
 #arcolinux-i3wm-dconf-git
 arcolinux-icewm-dconf.git
-arcolinux-jwm-dconf-git
+#arcolinux-jwm-dconf-git
 #arcolinux-lxqt-dconf-git
 #arcolinux-mate-dconf-git
 #arcolinux-openbox-dconf-git
