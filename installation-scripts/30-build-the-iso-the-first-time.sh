@@ -41,11 +41,11 @@ newname7='ArcoLinuxB-'$desktop
 
 #lightdm.conf user-session
 oldname9='user-session=xfce'
-newname9='user-session='$xdesktop
+newname9='user-session='$xdesktop'-session'
 
 #lightdm.conf autologin-session
 oldname10='#autologin-session='
-newname10='autologin-session='$xdesktop
+newname10='autologin-session='$xdesktop'-session'
 
 echo
 echo "################################################################## "
