@@ -22,7 +22,7 @@ outFolder="$HOME/ArcoLinuxB-Out"
 #First letter of desktop small
 
 desktop="icewm"
-xdesktop="icewm"
+xdesktop="icewm-session"
 
 #build.sh
 oldname1="iso_name=arcolinux"

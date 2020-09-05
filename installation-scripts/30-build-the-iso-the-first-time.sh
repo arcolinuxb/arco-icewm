@@ -22,7 +22,7 @@ outFolder="$HOME/ArcoLinuxB-Out"
 #First letter of desktop small
 
 desktop="icewm"
-xdesktop="icewm"
+xdesktop="icewm-session"
 
 #build.sh
 oldname1="iso_name=arcolinux"
@@ -41,11 +41,11 @@ newname7='ArcoLinuxB-'$desktop
 
 #lightdm.conf user-session
 oldname9='user-session=xfce'
-newname9='user-session='$xdesktop'-session'
+newname9='user-session='$xdesktop
 
 #lightdm.conf autologin-session
 oldname10='#autologin-session='
-newname10='autologin-session='$xdesktop'-session'
+newname10='autologin-session='$xdesktop
 
 echo
 echo "################################################################## "
