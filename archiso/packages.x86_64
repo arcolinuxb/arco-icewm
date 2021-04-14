@@ -606,7 +606,7 @@ arcolinux-config-all-desktops-git
 #arcolinux-config-gnome-git
 #arcolinux-config-herbstluftwm-git
 #arcolinux-config-i3wm-git
-arcolinux-config-icewm-git
+#arcolinux-config-icewm-git
 #arcolinux-config-jwm-git
 #arcolinux-config-kodi-git
 #arcolinux-config-lxqt-git
