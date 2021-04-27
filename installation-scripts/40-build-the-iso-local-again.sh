@@ -196,17 +196,17 @@ echo
 	#Setting variables
 
 	#profiledef.sh
-	oldname1='iso_name="arcolinux'
+	oldname1='iso_name="arcolinuxl'
 	newname1='iso_name="arcolinuxb-'$desktop
 
-	oldname2='iso_label="arcolinux'
+	oldname2='iso_label="arcolinuxl'
 	newname2='iso_label="arcolinuxb-'$desktop
 
-	oldname3='ArcoLinux'
+	oldname3='ArcoLinuxL'
 	newname3='ArcoLinuxB-'$desktop
 
 	#hostname
-	oldname4='ArcoLinux'
+	oldname4='ArcoLinuxL'
 	newname4='ArcoLinuxB-'$desktop
 
 	#sddm.conf user-session
