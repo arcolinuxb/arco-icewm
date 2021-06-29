@@ -29,7 +29,7 @@ echo
 	desktop="icewm"
 	dmDesktop="icewm-session"
 
-	arcolinuxVersion='v21.07.2'
+	arcolinuxVersion='v21.07.3'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
